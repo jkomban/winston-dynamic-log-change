@@ -1,0 +1,30 @@
+{
+  "name": "winston-dynamic-log-change",
+  "version": "1.0.0",
+  "description": "Change the log level dynamically for winston 3.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test passed \" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuttiraja/winston-dynamic-log-change.git"
+  },
+  "keywords": [
+    "winston",
+    "log",
+    "change",
+    "dynamic",
+    "change",
+    "log",
+    "level",
+    "change",
+    "runtime"
+  ],
+  "author": "Kuttiraja Veeranan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuttiraja/winston-dynamic-log-change/issues"
+  },
+  "homepage": "https://github.com/kuttiraja/winston-dynamic-log-change#readme"
+}
